@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoxLauncher</string>
+
+    <string name="get_instelled_apps">获取安装应用</string>
+</resources>

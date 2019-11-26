@@ -1,0 +1,7 @@
+{
+  "dirList": [],
+  "appList": [{
+    "appName": "高德地图",
+    "appPackage": "com.autonavi.minimap"
+  }]
+}

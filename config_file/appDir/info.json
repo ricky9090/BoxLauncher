@@ -1,0 +1,21 @@
+{
+  "dirList": ["应用市场","网购","工具","出行","影音","阅读","学习","游戏","","社区","聊天","浏览器"],
+  "appList": [
+    {
+      "appName": "相机",
+      "appPackage": "com.huawei.camera"
+    },
+    {
+      "appName": "图库",
+      "appPackage": "com.android.gallery3d"
+    },
+    {
+      "appName": "文件管理",
+      "appPackage": "com.huawei.hidisk"
+    },
+    {
+      "appName": "设置",
+      "appPackage": "com.android.settings"
+    }
+  ]
+}

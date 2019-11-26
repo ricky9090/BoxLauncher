@@ -1,0 +1,13 @@
+{
+  "dirList": [],
+  "appList": [
+    {
+      "appName": "QQ音乐",
+      "appPackage": "com.tencent.qqmusic"
+    },
+    {
+      "appName": "网易云音乐",
+      "appPackage": "com.netease.cloudmusic"
+    }
+  ]
+}

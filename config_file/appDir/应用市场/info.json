@@ -1,0 +1,16 @@
+{
+  "dirList": [],
+  "appList": [{
+      "appName": "华为应用市场",
+      "appPackage": "com.huawei.appmarket"
+    },
+    {
+      "appName": "华为游戏中心",
+      "appPackage": "com.huawei.gamebox"
+    },
+    {
+      "appName": "Google Play 商店",
+      "appPackage": "com.android.vending"
+    }
+  ]
+}

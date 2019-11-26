@@ -1,0 +1,20 @@
+{
+  "dirList": [],
+  "appList": [{
+      "appName": "浏览器",
+      "appPackage": "com.android.browser"
+    },
+    {
+      "appName": "QQ浏览器",
+      "appPackage": "com.tencent.mtt"
+    },
+    {
+      "appName": "Firefox",
+      "appPackage": "org.mozilla.firefox"
+    },
+    {
+      "appName": "Chrome",
+      "appPackage": "com.android.chrome"
+    }
+  ]
+}

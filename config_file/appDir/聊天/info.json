@@ -1,0 +1,17 @@
+{
+  "dirList": [],
+  "appList": [
+    {
+      "appName": "微信",
+      "appPackage": "com.tencent.mm"
+    },
+    {
+      "appName": "QQ",
+      "appPackage": "com.tencent.mobileqq"
+    }, 
+    {
+      "appName": "脉脉",
+      "appPackage": "com.taou.maimai"
+    }
+  ]
+}
